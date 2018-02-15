@@ -1,7 +1,7 @@
 {
   "name": "scraper",
   "version": "1.1.0",
-  "description": "",
+  "description": "Get IPs and hostnames of all the online servers from otservlist.org.",
   "main": "src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
