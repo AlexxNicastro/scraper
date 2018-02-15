@@ -1,6 +1,6 @@
 {
   "name": "scraper",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Get IPs and hostnames of all the online servers from otservlist.org.",
   "main": "src/index.js",
   "scripts": {
@@ -10,6 +10,10 @@
   "author": "Alexandre Nicastro",
   "license": "MIT",
   "devDependencies": {
+    "@types/jsdom": "^11.0.4",
+    "@types/node": "^9.4.6",
+    "chalk": "^2.3.1",
+    "jsdom": "^11.6.2",
     "typescript": "^2.7.0-dev.20171209"
   }
 }

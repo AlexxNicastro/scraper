@@ -81,7 +81,7 @@ const getServerList = async (): Promise<Buffer> => {
 
             if (
               checkers.stringIsInt(objContent)
-              && converters.toInt(objContent) !== 1
+              && converters.toInt(objContent) !== 0
               && hrefVal !== null
             ) {
               addToPageList(options.hostname, hrefVal);
