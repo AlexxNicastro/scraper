@@ -4,7 +4,7 @@
 import * as v8 from 'v8';
 import chalk from 'chalk';
 import logger from './logger';
-import { PipeFunction, PipeFunctionWithArg, IRegExp } from '../typings';
+import { PipeFunction, PipeFunctionWithArg, IRegExp } from './typings';
 //#endregion
 
 //#region -> INITIALIZERS & EXPORTS

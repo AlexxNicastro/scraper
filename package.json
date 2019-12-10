@@ -11,10 +11,10 @@
   "author": "Alexandre Nicastro",
   "license": "MIT",
   "devDependencies": {
-    "@types/jsdom": "^11.0.4",
-    "@types/node": "^9.4.6",
-    "chalk": "^2.3.1",
-    "jsdom": "^11.6.2",
-    "typescript": "^2.7.0-dev.20171209"
+    "@types/jsdom": "^11.12.0",
+    "@types/node": "^9.6.55",
+    "chalk": "^2.4.2",
+    "jsdom": "^11.12.0",
+    "typescript": "^2.9.2"
   }
 }

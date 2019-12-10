@@ -3,7 +3,6 @@
     "outDir": "./dist",
     "module": "commonjs",
     "target": "es5",
-    "declaration": true,
     "lib": [
       "es5",
       "es6",
@@ -37,8 +36,6 @@
     ],
     "types": [ "node" ],
     "sourceMap": true,
-    "allowJs": true,
-    "checkJs": true,
     "listEmittedFiles": true,
     "listFiles": true,
     "removeComments": true,
